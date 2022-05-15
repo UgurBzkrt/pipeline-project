@@ -6,5 +6,5 @@ if int(x)==10:
   print("dogru karar")
   
 else:
- print("yanlıs karar")
+  print("yanlıs karar")
   
