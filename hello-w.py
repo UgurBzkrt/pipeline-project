@@ -1,5 +1,3 @@
-print("hello world")
-
 x=10
 
 if int(x)==10:
